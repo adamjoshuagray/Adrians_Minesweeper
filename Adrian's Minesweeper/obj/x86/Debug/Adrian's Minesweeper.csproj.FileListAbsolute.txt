@@ -13,3 +13,4 @@ C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Mineswee
 C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians Minesweeper.exe
 C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians Minesweeper.pdb
 C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians_Minesweeper.Minesweeper.resources
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrian's Minesweeper.csprojResolveAssemblyReference.cache

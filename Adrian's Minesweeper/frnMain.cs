@@ -34,10 +34,10 @@ namespace Adrians_Minesweeper
             tstbMines.BackColor = int.TryParse(tstbMines.Text, out mines) ? SystemColors.Window : Color.Red;
 
             tstbMines.BackColor = mines > 0 && mines < width * height ? SystemColors.Window : Color.Red;
-            tstbWidth.BackColor = width > 0 && width <= 40 ? SystemColors.Window : Color.Red;
-            tstbHeight.BackColor = height > 0 && height <= 25 ? SystemColors.Window : Color.Red;
+            tstbWidth.BackColor = width > 0 && width <= 75 ? SystemColors.Window : Color.Red;
+            tstbHeight.BackColor = height > 0 && height <= 75 ? SystemColors.Window : Color.Red;
 
-            if (!(mines > 0 && mines < width * height && width > 0 && width <= 40 && height > 0 && height <= 25))
+            if (!(mines > 0 && mines < width * height && width > 0 && width <= 75 && height > 0 && height <= 75))
             {
                 //Invalid input.
                 return;

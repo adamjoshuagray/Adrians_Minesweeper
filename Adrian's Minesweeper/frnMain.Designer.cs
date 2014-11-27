@@ -188,6 +188,7 @@
             // 
             // panMain
             // 
+            this.panMain.AutoScroll = true;
             this.panMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panMain.Location = new System.Drawing.Point(0, 74);
             this.panMain.Name = "panMain";
@@ -203,6 +204,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(897, 478);
             this.Controls.Add(this.panMain);
             this.Controls.Add(this.toolStrip2);

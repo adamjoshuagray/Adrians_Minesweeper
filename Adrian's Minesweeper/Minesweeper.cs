@@ -88,6 +88,8 @@ namespace Adrians_Minesweeper
                 }
             }
             _LayoutButtons();
+            Width = GridWidth * _BUTTON_SIZE;
+            Height = GridHeight * _BUTTON_SIZE;
         }
 
         private void _LayoutButtons()
