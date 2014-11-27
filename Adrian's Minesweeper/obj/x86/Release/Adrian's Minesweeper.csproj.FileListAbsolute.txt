@@ -6,3 +6,16 @@ C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweep
 C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrian's Minesweeper.csproj.GenerateResource.Cache
 C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrian's Minesweeper.exe
 C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrian's Minesweeper.pdb
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\bin\Release\Adrians Minesweeper.exe.manifest
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\bin\Release\Adrians Minesweeper.application
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\bin\Release\Adrians Minesweeper.exe
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\bin\Release\Adrians Minesweeper.pdb
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrian's Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians_Minesweeper.frmMain.resources
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians_Minesweeper.Minesweeper.resources
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians_Minesweeper.Properties.Resources.resources
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrian's Minesweeper.csproj.GenerateResource.Cache
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians Minesweeper.exe.manifest
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians Minesweeper.application
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians Minesweeper.exe
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Release\Adrians Minesweeper.pdb
