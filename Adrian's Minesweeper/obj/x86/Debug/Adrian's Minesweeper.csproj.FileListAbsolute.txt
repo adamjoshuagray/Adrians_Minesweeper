@@ -5,3 +5,11 @@ C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweep
 C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrian's Minesweeper.csproj.GenerateResource.Cache
 C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrian's Minesweeper.exe
 C:\Users\adamjoshuagray\documents\visual studio 2010\Projects\Adrian's Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrian's Minesweeper.pdb
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\bin\Debug\Adrians Minesweeper.exe
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\bin\Debug\Adrians Minesweeper.pdb
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians_Minesweeper.frmMain.resources
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians_Minesweeper.Properties.Resources.resources
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrian's Minesweeper.csproj.GenerateResource.Cache
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians Minesweeper.exe
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians Minesweeper.pdb
+C:\Users\adamjoshuagray\Documents\Projects\Adrians_Minesweeper\Adrian's Minesweeper\obj\x86\Debug\Adrians_Minesweeper.Minesweeper.resources

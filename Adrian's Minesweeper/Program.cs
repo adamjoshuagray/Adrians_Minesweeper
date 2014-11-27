@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Adrian_s_Minesweeper
+namespace Adrians_Minesweeper
 {
     static class Program
     {
