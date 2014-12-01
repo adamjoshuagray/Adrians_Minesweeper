@@ -12,18 +12,47 @@ namespace Adrians_Minesweeper
     public partial class Minesweeper : UserControl
     {
 
-
+        /// <summary>
+        /// This is called if the game of minesweeper is won.
+        /// </summary>
         public event EventHandler       OnWin;
+        /// <summary>
+        /// This is called if the game of minesweeper is lost.
+        /// </summary>
         public event EventHandler       OnLoose;
+        /// <summary>
+        /// This is called when the game of minesweeper starts. This happens after the first click.
+        /// </summary>
         public event EventHandler       OnStart;
+        /// <summary>
+        /// This is triggered when the flagged state of a square is changed.
+        /// </summary>
         public event EventHandler       OnFlagChange;
 
+        /// <summary>
+        /// Indicates whether the flags should be placed automatically when it is "easy" to deduce that they must be placed.
+        /// </summary>
         public bool                     AutoFlag { get; set; }
+        /// <summary>
+        /// Indicates whether squares should be cleared automatically when it is "easy" to deduce when they can be cleared.
+        /// </summary>
         public bool                     AutoClear { get; set; }
 
+        /// <summary>
+        /// This number of squares wide the board is.
+        /// </summary>
         public int                      GridWidth { get; private set; }
+        /// <summary>
+        /// The number of squares hight the board is.
+        /// </summary>
         public int                      GridHeight { get; private set; }
+        /// <summary>
+        /// The number of mines on the board.
+        /// </summary>
         public int                      Mines { get; private set; }
+        /// <summary>
+        /// The number of flagged squares on the board.
+        /// </summary>
         public int                      FlaggedSquares { get; private set; }
 
         private bool                    _Started = false;
